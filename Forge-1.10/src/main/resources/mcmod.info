@@ -1,0 +1,16 @@
+[
+{
+  "modid": "elementicraft",
+  "name": "elementicraft",
+  "description": "Mod Magique de Rosgrim",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["N0ctis"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

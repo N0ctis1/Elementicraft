@@ -1,0 +1,23 @@
+item.essence_feu.name=Essence de Feu
+item.essence_eau.name=Essence d ' Eau
+item.essence_terre.name=Essence de Terre
+item.essence_air.name=Essence d ' Air
+item.essence_end.name=Essence d ' End
+item.essence_explosion.name=Essence d ' Explosion
+item.essence_glace.name=Essence de Glace
+item.essence_foudre.name=Essence de Foudre
+item.essence_invocation.name=Essence d ' Invocation
+item.essence_lumiere.name=Essence de Lumière
+item.essence_mort.name=Essence de Mort
+item.essence_ombre.name=Essence d ' Ombre
+item.essence_nature.name=Essence de Nature
+item.essence_poison.name=Essence de Poison
+item.essence_robustesse.name=Essence de Robustesse
+item.essence_vapeur.name=Essence de Vapeur
+item.mana.name=Mana
+entity.elementicraft.Elementaire_Feu.name=Elementaire de Feu
+entity.elementicraft.Elementaire_Eau.name=Elementaire de l'Eau
+entity.elementicraft.Elementaire_Terre.name=Elementaire de Terre
+entity.elementicraft.Elementaire_Vent.name=Elementaire de Vent
+
+blocks.spell_table.nam=Table des Sorts
